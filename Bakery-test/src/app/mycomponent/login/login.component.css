@@ -1,0 +1,43 @@
+#boottable{
+    width: 48%;
+    margin-left: 298px;
+    padding: 54px;
+    color: brown;
+    border: 1px solid brown;
+}
+.btn-primary {
+    color: #fff;
+    background-color: saddlebrown;
+    border-color: brown;
+}
+.btn-primary:hover{
+    color:saddlebrown ;
+    background-color: #fff;
+}
+table{
+    margin-top: 150px;
+    margin-left:453px;
+    margin-bottom: 200px;
+    border: 1px solid chocolate;
+    padding: 15px;
+    width: 25%;
+    font-family: Century Gothic;;
+   
+}
+td{
+    padding: 5px;
+}
+#loginSubmit,#loginReset{
+    padding: 0px 18px 0px 18px;
+    background-color:  rgb(134, 84, 9);
+    font-family: Segoe Print;
+    color:  blanchedalmond;
+}
+#loginSubmit:hover{
+    background-color:  blanchedalmond;
+    color: rgb(134, 84, 9); 
+}
+#loginReset:hover{
+    background-color:  blanchedalmond;
+    color: rgb(134, 84, 9); 
+}

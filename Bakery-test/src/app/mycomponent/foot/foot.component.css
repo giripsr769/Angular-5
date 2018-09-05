@@ -1,0 +1,14 @@
+#foot{
+    border: 1px solid black;
+    font-family: Gabriola;
+    background-color: rgb(134, 84, 9);
+    color: blanchedalmond;
+    opacity: 0.8; 
+    padding: 10px 0 10px 589px;
+    height: 20px;
+    text-anchor: center;
+    letter-spacing: 3px;
+    position: fixed;
+    width: 100%;
+    
+}

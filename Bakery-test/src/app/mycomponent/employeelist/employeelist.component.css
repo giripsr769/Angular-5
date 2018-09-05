@@ -1,0 +1,21 @@
+#main{
+    border: 1px solid brown;
+    padding: 10px;
+    width: 50%;
+    margin-left: 300px;
+    margin-bottom: 50px;
+   
+}
+#left{
+    margin-left: 25px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+td{
+    padding-left: 20px;
+}
+#right{
+    margin-left: 25px;
+    display: inline-block;
+}

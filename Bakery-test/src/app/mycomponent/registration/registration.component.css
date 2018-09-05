@@ -1,0 +1,27 @@
+table{
+    margin-top: 42px;
+    margin-left:400px;
+    margin-bottom: 95px;
+    border: 1px solid chocolate;
+    padding: 15px;
+    width: 40%;
+    font-family: Century Gothic;
+   
+}
+td{
+    padding: 12px;
+}
+#regSubmit, #regReset{
+    padding: 0px 18px 0px 18px;
+    background-color:  rgb(134, 84, 9);
+    font-family: Segoe Print;
+    color:  blanchedalmond;
+}
+#regSubmit:hover{
+    background-color:  blanchedalmond;
+    color: rgb(134, 84, 9); 
+}
+#regReset:hover{
+    background-color:  blanchedalmond;
+    color: rgb(134, 84, 9); 
+}
